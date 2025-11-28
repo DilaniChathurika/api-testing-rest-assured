@@ -6,9 +6,14 @@ It automates GET, POST, PUT, and DELETE API requests and validates status codes,
 Features
 
 ✔ REST API automation using Rest Assured
+
 ✔ BDD (Given-When-Then) approach with Gherkin
+
 ✔ Automated GET, POST, PUT, DELETE requests
+
 ✔ Response validation:
+
+
 
 Status codes
 
@@ -17,6 +22,8 @@ Headers
 JSON response body
 
 JSON schema validation
+
+
 
 Technologies Used
 
